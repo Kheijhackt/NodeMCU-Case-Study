@@ -11,7 +11,6 @@
 ## Software Used
 - Arduino IDE
 - Thonny IDE
-- 
 ---
 ## Instructions
 1. Circuit the first device with 4 pushbuttons.
